@@ -1,9 +1,8 @@
 ### Hi there 👋 I'm Ary Sugiarto
 
+**arysugiarto/arysugiarto**
 
-**arysugiarto/arysugiarto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<h2>Android Developer | Cloud Native Enthusiast | Linux User</h2>
+<h3>Android Developer | Cloud Native Enthusiast | Linux User</h3>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
