@@ -10,9 +10,10 @@
 
 
 click below to review more about me
-Twitter   :https://twitter.com/asugiarto10
-LinkedIn  :https://www.linkedin.com/in/arysugiarto10/
-Instagram :https://www.instagram.com/arysg10/
+
+Twitter   :https://twitter.com/asugiarto10 <br>
+LinkedIn  :https://www.linkedin.com/in/arysugiarto10/ <br>
+Instagram :https://www.instagram.com/arysg10/ <br>
 Medium    :https://medium.com/@arysugiarto
 
 
