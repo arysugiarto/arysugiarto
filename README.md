@@ -17,6 +17,6 @@ Instagram :https://www.instagram.com/arysg10/ <br>
 Medium    :https://medium.com/@arysugiarto
 
 
-<img src="https://flutterdev.tech/wp-content/uploads/2020/08/flutter-dev-logo.png" alt="Girl in a jacket" width="30" height="20">
+<!-- <img src="https://flutterdev.tech/wp-content/uploads/2020/08/flutter-dev-logo.png" alt="Girl in a jacket" width="30" height="20"> -->
 
 
