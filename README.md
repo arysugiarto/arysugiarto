@@ -3,9 +3,8 @@
 **arysugiarto/arysugiarto**
 
 <h3>Android Developer | Cloud Native Enthusiast | Linux User</h3>
-<br>
+
 <h3>Android Development</h3>
-<br>
 <h4>Kotlin + JAVA + Dart + Flutter</4>
 
 - 🔭 Learn ...
