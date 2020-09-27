@@ -4,7 +4,7 @@
 
 <h3>Android Developer | Cloud Native Enthusiast | Linux User</h3>
 
-<h3>Android Development : : Kotlin + JAVA + Dart + Flutter</h3> 
+<h3>Android Development :  Kotlin + JAVA + Dart + Flutter</h3> 
 <br>
 
 - 🔭 Learn ...
