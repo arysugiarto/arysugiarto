@@ -3,8 +3,6 @@
 **arysugiarto/arysugiarto**
 
 <h3>Android Developer | Linux User</h3>
-
-<h3>Android Development :  Kotlin + JAVA </h3> 
 <br>
 
 - 🔭 Learn ...
