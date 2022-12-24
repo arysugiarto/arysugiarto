@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Ary Sugiarto
 
-<h3>Mobile Developer</h3>
+<h3>Mobile Developer Native | Kotlin & Swift</h3>
 <br>
 
 - 🔭 Learn ...
