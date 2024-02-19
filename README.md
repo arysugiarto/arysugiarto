@@ -2,8 +2,8 @@
 
 <h3>Mobile Developer Native | Kotlin & Swift</h3>
 <br>
-<a href="https://www.swift.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="hadoop" width="60" height="60"/> </a> 
-<a href="https://kotlinlang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="hive" width="60" height="60"/> </a> 
+<a href="https://www.swift.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="hadoop" width="50" height="60"/> </a> 
+<a href="https://kotlinlang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="hive" width="60" height="50"/> </a> 
 <br>
 
 - 🔭 Learn ...
