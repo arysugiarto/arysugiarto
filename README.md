@@ -10,7 +10,7 @@
 
 click below to review more about me
 
-Twitter   :https://x.com/arysugiarto_ <br> 
+Twitter   :@arysugiarto_ <br> 
 Youtube   : ary s 'dev
 Gitlab    :https://gitlab.com/arysugiarto10 <br>
 LinkedIn  :https://www.linkedin.com/in/arysugiarto10/ <br>
